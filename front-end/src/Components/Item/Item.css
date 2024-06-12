@@ -1,14 +1,14 @@
 .item{
     width: 250px;
     margin-bottom: 50px;
-    
+
 }
 .item p{
     margin: 6px 0px;
 }
 .item img{
     width: 250px;
-    height: auto;
+    height: 300px;
 }
 .item-prices{
     display: flex;
